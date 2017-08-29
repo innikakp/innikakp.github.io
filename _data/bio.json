@@ -18,17 +18,22 @@
       {
         "network": "github",
         "username": "innikakp",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "email",
-        "username": "innikakp",
-        "url": "innikakp@hawaii.edu"
+        "url": "http://github.com/innikakp"
       },
       {
         "network": "linkedin",
         "username": "innika-pang",
         "url": "https://www.linkedin.com/in/innika-pang-a48737146/"
+      },
+      {
+        "network": "linkedin",
+        "username": "Innika Pang",
+        "url": "http://www.techhui.com/profile/InnikaPang"
+      }
+      {
+        "network": "email",
+        "username": "innikakp",
+        "url": "http://innikakp@hawaii.edu"
       }
     ]
   },
