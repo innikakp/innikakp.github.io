@@ -21,14 +21,14 @@
         "url": "http://github.com/innikakp"
       },
       {
-        "network": "linkedin",
-        "username": "innika-pang",
-        "url": "https://www.linkedin.com/in/innika-pang-a48737146/"
-      },
-      {
         "network": "techhui",
         "username": "Innika Pang",
         "url": "http://www.techhui.com/profile/InnikaPang"
+      },
+      {
+        "network": "linkedin",
+        "username": "innika-pang",
+        "url": "https://www.linkedin.com/in/innika-pang-a48737146/"
       }
     ]
   },
