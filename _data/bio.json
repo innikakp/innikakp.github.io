@@ -21,14 +21,14 @@
         "url": "http://github.com/changeme"
       },
       {
-        "network": "linkedin",
-        "username": "innika-pang",
-        "url": "https://www.linkedin.com/in/innika-pang-a48737146/"
-      },
-       {
         "network": "email",
         "username": "innikakp",
         "url": "innikakp@hawaii.edu"
+      },
+      {
+        "network": "linkedin",
+        "username": "innika-pang",
+        "url": "https://www.linkedin.com/in/innika-pang-a48737146/"
       }
     ]
   },
