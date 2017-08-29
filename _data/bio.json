@@ -6,7 +6,7 @@
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://innikakp.github.io",
-    "summary": "I am studying for a B.A. in Psychology in the Department of Psychology and a minor in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.A. in Psychology in the Department of Psychology and for a minor in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. Although I do not have a specific area of professional direction currently, I am interested in using computer science techniques to enhance the field of neuroscience.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,6 +24,11 @@
         "network": "linkedin",
         "username": "innika-pang",
         "url": "https://www.linkedin.com/in/innika-pang-a48737146/"
+      },
+       {
+        "network": "email",
+        "username": "innikakp",
+        "url": "innikakp@hawaii.edu"
       }
     ]
   },
@@ -34,6 +39,19 @@
         "Neuroscience",
         "brain",
         "cognitive"
+      ]
+    },
+    {
+      "name": "reading",
+      "keywords": [
+        "fiction",
+        "science-fiction",
+        "dystopian literature"
+      ]
+    },
+    {
+      "name": "video games",
+      "keywords": [
       ]
     }
   ],
