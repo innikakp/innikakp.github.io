@@ -11,7 +11,7 @@ labels:
 summary: A text-based postfix calculator that asked the user to enter postfix expressions consisting of integers and/or floating points. 
 ---
 
-<div class="calculator_images" text-align="bottom">
+<div class="calculator_images" align="center">
   <img class="calculator_output" src="../images/calculatorsampleoutput.PNG">
 </div>
 
