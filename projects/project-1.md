@@ -1,29 +1,24 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/PostfixCalculatorPic.png
+title: Postfix Calculator
+permalink: projects/postfixcalculator
+date: 2017
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Calculator
+  - Java
+summary: A text-based postfix calculator that asked the user to enter postfix expressions consisting of integers and/or floating points. 
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+<div class="calculator images">
+  <img class="calculator image" src="../images/calculatorsampleoutput.PNG">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project was an assignment from ICS 211 (Intro to Computer Science II), Spring 2017 in which the Stack ADT was used to create a postfix calculator in Java. The calculator was text-based and asked the user to provide postfix expressions of integers, floating points, or a mixture of both. The goal of this assignment was to correctly provide the answer for the given postfix expression by creating a Calculator class. For this project, I wrote the source code for the Calculator class and the two test classes in Eclipse. The Teaching Assistant, Tyson Mook, provided us with an Exception class in order to catch any bad postfix expressions or input. Since then, I attempted to correct any errors the Teaching Assistant pointed out and made the input prompts more user-friendly. This provided image is a sample output for the given postfix expressions. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Although this assignment seems simplistic, I learned quite a bit from this assignment alone. For one, I learned how to problem solve by figuring out what certain parts of the calculator should do and to research necessary information needed to make my program function correctly. Additionally, applying the concepts to create a useful program helped me gain a deeper understanding of how the Stack ADT worked. Thus, this simple assignment allowed me to put the knowledge I accumulated to use and to figure out what I didn't know using other resources.    
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
