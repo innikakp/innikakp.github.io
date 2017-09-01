@@ -1,62 +1,26 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/CyberPatriot_Logo.jpg
+title: CyberPatriot Experience
+permalink: projects/cyberpatriot
+date: 2013-2014
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - CyberPatriot
+  - cybersecurity
+summary: My experience and skills learned during my time as a CyberPatriot competitor for my school.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-<img height = "300" src="../images/cyberpatriotcertificatecopy.png">
+<img align="right" height="300" src="../images/cyberpatriotcertificatecopy.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+During my senior year of high school, I joined a class that enabled students to participate in CyberPatriot competitions hosted by the Air Force Association. In a way, this class became an extracurricular activity since the team would hold meetings outside of class and much time was devoted to research. This competition gave students the opportunity to become involved in a national competition, which enabled students to apply their cybersecurity skills to a real world setting. Throughout the competition, students needed to figure out and fix a number of vulnerabilities to protect their "computer system" on a virtual machine for about eight hours. The types of operating systems we wokred with were the Windows, Windows Server, and Linux.   
 
-To give you a flavor of the game, here is an excerpt from one run:
+My team, named CyberLancers after our mascot Joan of Arc, consisted of six students all with limited knowledge of cybersecurity. For the entirety of the competition, I was tasked with learning the Linux OS because no one on the team was familiar with this operating system. Eventually, I was the only person on the team who acquired basic knowledge of Linux; however, information on Linux was limited at the time, which meant I was not able to know everything about Linux. 
 
-<hr>
+The time I spent with this team taught me the value of work ethic and gave me a taste of how to research effectively. Also, I was able to become familiar with Linux, which became valuable knowledge as I was using Unix. Being familiar with another operating system besides Windows opened my eyes to a different side of software.   
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
