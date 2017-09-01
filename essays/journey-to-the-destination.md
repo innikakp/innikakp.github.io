@@ -9,7 +9,7 @@ labels:
   - Future goals
 ---
 
-#The Beginning of the Journey
+## H2 The Beginning of the Journey
 
 From a young age, I have always been curious about the processes that went into creating video games. I marvel at how realistic 
 video games have become in recent years. It’s incredible to see how software engineers are able to build various applications for 
@@ -20,14 +20,14 @@ in psychology.
 
 <img class="ui left floated image" height="300" src="../images/areasofpsychology.jpg">
 
-##The Drive
+## H2 The Drive
 
 It would be interesting to see the usefulness of these guides for the various areas of psychology, including social, abnormal, 
 cognitive, and much more. After all, there’s more to psychology than Sigmund Freud and psychodynamics. My goal for this aspiration 
 is to combine my knowledge in Psychology and Computer Science to give others the opportunity to learn the basics of Psychology 
 without having to take intensive courses.    
 
-##Future Accomplishments and Skill Sets
+## H2 Future Accomplishments and Skill Sets
 
 With this ambition in mind, I hope the accumulated knowledge in software engineering will enable me to program more efficiently. 
 Ideally, I would like to think faster and program more efficiently since my brain takes quite a bit of time to process information. 
