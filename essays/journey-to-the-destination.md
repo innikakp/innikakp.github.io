@@ -18,7 +18,7 @@ foundations of software engineering to fulfill my goals. Given my growing passio
 possibly in the form of websites or mobile applications, to aid students and children in understanding complex and abstract concepts 
 in psychology. 
 
-<img class="ui left floated image" height="300" src="../images/areasofpsychology.jpg">
+<img class="ui left floated image" width="300" src="../images/areasofpsychology.jpg">
 
 ## The Drive
 
