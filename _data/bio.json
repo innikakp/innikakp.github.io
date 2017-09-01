@@ -67,9 +67,7 @@
       "keywords": [
         "Windows",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Apple"
       ]
     }
   ],
@@ -89,68 +87,53 @@
     {
       "company": "Curriculum Research & Development Group",
       "position": "Office Assistant",
-      "website": "",
+      "website": "http://manoa.hawaii.edu/crdg/",
       "startDate": "2017-07-09",
       "endDate": "Present",
       "summary": "Assist CRDG-IT staff with finances and other necessary help",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain finances within IT department",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Friends of the Library",
+      "website": "https://www.friendsofthelibraryofhawaii.org/s",
+      "position": "Adder",
+      "startDate": "2012-07-13",
+      "endDate": "2013-07-20",
+      "summary": "Calculated total cost of books for buyers",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Problem solved when no prices on books were found",
+        "Maintained assigned environment"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Susan G. Komen",
+      "website": "http://komenhawaii.org/",
+      "position": "VIP Area Helper",
+      "startDate": "2016-10-16",
+      "endDate": "2016-10-16",
+      "summary": "Set up tables for VIP members of Susan G. Komen organization",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Moved furniture (tables and chairs) for VIP members",
+        "Designed layout of VIP area"
+      ]
+    },
+    {
+      "organization": "Hawaii Foodbank",
+      "website": "http://www.hawaiifoodbank.org/",
+      "position": "Senior Food Box Packing",
+      "startDate": "2012-06",
+      "endDate": "2012-06",
+      "summary": "Sorted and packaged canned goods",
+      "highlights": [
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
