@@ -37,5 +37,5 @@ in this type of environment, I hope to ease my anxiety when performing under str
 together so that I can be confident in my skills as a software engineer.   
 
 <p align="center">
-  <img class="ui circular image" height="300" src="../images/psyandcs.jpg">
+  <img height="300" src="../images/psyandcs.jpg">
 </p>
