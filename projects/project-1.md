@@ -19,6 +19,7 @@ This project was an assignment from ICS 211 (Intro to Computer Science II), Spri
 
 Although it was simplistic, I learned many skills from this assignment alone. For one, I was able to put my problem solving skills to use by conceptually breaking the problem down into smaller parts and researching information to make my program function correctly. Additionally, applying the concepts I learned into a concrete operation helped me gain a deeper understanding of how the Stack ADT worked. Thus, this simple assignment allowed me to exercise my the knowledge I accumulated over the semester and to utilize other resources to my benefit.     
 
+Source: <a href="https://github.com/innikakp/Postfix-Calculator"><i class="large github icon"></i>innikakp/Postfix-Calculator</a>
 
 
 
