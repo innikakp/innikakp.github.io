@@ -99,18 +99,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Friends of the Library",
-      "website": "https://www.friendsofthelibraryofhawaii.org/s",
-      "position": "Adder",
-      "startDate": "2012-07-13",
-      "endDate": "2013-07-20",
-      "summary": "Calculated total cost of books for buyers",
-      "highlights": [
-        "Problem solved when no prices on books were found",
-        "Maintained assigned environment"
-      ]
-    },
-    {
       "organization": "Susan G. Komen",
       "website": "http://komenhawaii.org/",
       "position": "VIP Area Helper",
@@ -120,6 +108,18 @@
       "highlights": [
         "Moved furniture (tables and chairs) for VIP members",
         "Designed layout of VIP area"
+      ]
+    },
+    {
+      "organization": "Friends of the Library",
+      "website": "https://www.friendsofthelibraryofhawaii.org/s",
+      "position": "Adder",
+      "startDate": "2012-07-13",
+      "endDate": "2013-07-20",
+      "summary": "Calculated total cost of books for buyers",
+      "highlights": [
+        "Problem solved when no prices on books were found",
+        "Maintained assigned environment"
       ]
     },
     {
