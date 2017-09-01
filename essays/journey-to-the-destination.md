@@ -30,4 +30,6 @@ independently. Furthermore, I would like to gain experience in performing in a h
 in this type of environment, I hope to ease my anxiety when performing under stress. Hopefully, these elements will naturally come 
 together so that I can be confident in my skills as a software engineer.   
 
-<img height="300" src="../images/psyandcs.jpg">
+<p align="center">
+  <img height="300" src="../images/psyandcs.jpg">
+</p>
