@@ -22,4 +22,4 @@ Below is a sample of the text-based output when the user wants to add a record t
   <img height="300" src="../images/bankdatabaseoutput.PNG"> 
 </p>
  
-Source: <a href="https://github.com/innikakp/Postfix-Calculator"><i class="large github icon"></i>innikakp/Postfix-Calculator</a>
+Source: <a href="https://github.com/innikakp/Postfix-Calculator"><i class="large github icon"></i> innikakp/Postfix-Calculator</a>
