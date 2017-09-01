@@ -15,7 +15,7 @@ During my senior year of high school, I joined a class that enabled students to 
 
 My team, named CyberLancers after our mascot Joan of Arc, consisted of six students all with limited knowledge of cybersecurity. For the entirety of the competition, I was tasked with learning the Linux OS because no one on the team was familiar with this operating system. Eventually, I was the only person on the team who acquired basic knowledge of Linux; however, information on Linux was limited at the time, which meant I was not able to know everything about Linux. 
 
-<p align"center">
+<p align="center">
   <img height="300" src="../images/cyberpatriotcertificatecopy.png">
 </p>
 
