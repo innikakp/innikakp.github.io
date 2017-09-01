@@ -16,7 +16,7 @@ foundations of software engineering to fulfill my goals. Given my growing passio
 possibly in the form of websites or mobile applications, to aid students and children in understanding complex and abstract concepts 
 in psychology. 
 
-<img class="ui left floated image" src="../images/areasofpsychology.jpg">
+<img class="ui left floated image" height="300" src="../images/areasofpsychology.jpg">
 
 It would be interesting to see the usefulness of these guides for the various areas of psychology, including social, abnormal, 
 cognitive, and much more. After all, there’s more to psychology than Sigmund Freud and psychodynamics. My goal for this aspiration 
