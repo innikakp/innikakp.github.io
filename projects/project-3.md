@@ -4,7 +4,7 @@ type: project
 image: images/CyberPatriotLogo.jpg
 title: Experience in CyberPatriot
 permalink: projects/cyberpatriot
-date: 2014
+date: 2013
 labels:
   - CyberPatriot
   - cybersecurity
