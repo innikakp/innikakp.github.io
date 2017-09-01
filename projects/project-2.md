@@ -16,7 +16,7 @@ The bank database was a final project in ICS 212 (Program Structures), Summer 20
 
 This was a very large scaled project that required many components, such as the user-interface (the menu), and was particularly intimidating. It seemed intimidating initially because of the number of components need to function and the fact that one wrong piece/line of source code could essentially ruin the whole project. Yet, it did not seem as terrifying as I thought it would be and taught me the value of time management and being able to fully understand what is going on in the source code (or to see the code the way the CPU sees it). The course in itself has taught me many lessons that I will, hopefully, not forget, such as understanding a set of instructions given and following it to what the consumer's wishes. 
 
-Below is a sample of the text-based output when the user wants to add a record to the database. 
+Below is a sample of the text-based output when the user wants to add a record to the database and the source code. 
 
 <p align="center">
   <img height="300" src="../images/bankdatabaseoutput.PNG"> 
