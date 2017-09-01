@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CyberPatriotLogo.jpg
+image: images/cyberpatriotcertificatecopy.png
 title: Experience in CyberPatriot
 permalink: projects/cyberpatriot
 date: 2013-2014
