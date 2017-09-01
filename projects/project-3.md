@@ -17,5 +17,5 @@ During my senior year of high school, I joined a class that enabled students to 
 
 My team, named CyberLancers after our mascot Joan of Arc, consisted of six students all with limited knowledge of cybersecurity. For the entirety of the competition, I was tasked with learning the Linux OS because no one on the team was familiar with this operating system. Eventually, I was the only person on the team who acquired basic knowledge of Linux; however, information on Linux was limited at the time, which meant I was not able to know everything about Linux. After the last competition, every member in the team was given a certificate for their participation. 
 
-The time I spent with this team taught me the value of work ethic and gave me a taste of how to research effectively. Also, I was able to become familiar with Linux, which became valuable knowledge as I was using Unix. Being familiar with another operating system besides Windows opened my eyes to a different side of software.   
+The time I spent with this team taught me the value of work ethic, teamwork, and gave me a taste of how to research effectively. Also, I was able to become familiar with Linux, which became valuable knowledge as I was using Unix. Being familiar with another operating system besides Windows opened my eyes to a different side of software.   
 
