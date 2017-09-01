@@ -22,4 +22,4 @@ Below is a sample of the text-based output when the user wants to add a record t
   <img height="300" src="../images/bankdatabaseoutput.PNG"> 
 </p>
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/innikakp/Postfix-Calculator"><i class="large github icon">Github</i>innikakp/Postfix-Calculator</a>
