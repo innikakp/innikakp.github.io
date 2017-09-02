@@ -25,9 +25,7 @@ is the ability to use classes and Object Oriented Programming. OOP is a powerful
 for developers and I believe having it in Javascript would make it easier for people to 
 create software.  
 
-<p align="center">
-  <img class="ui medium circular floated rounded image" height="300" src="../images/javascript.jpg">
-</p>
+<img class="ui medium left circular floated rounded image" height="300" src="../images/javascript.jpg">
 
 ## A Perspective on Athletic Software Engineering 
 
