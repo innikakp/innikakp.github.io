@@ -8,6 +8,8 @@ labels:
   - Javascript
 ---
 
+<img class="ui medium left circular floated rounded image" height="300" src="../images/javascript.jpg">
+
 ## The Power of Javascript
 
 Initially, Javascript seemed intimidating and difficult to learn. However, I was wrong. 
@@ -24,8 +26,6 @@ commonalities between the two languages. Along these lines, a benefit Javascript
 is the ability to use classes and Object Oriented Programming. OOP is a powerful tool 
 for developers and I believe having it in Javascript would make it easier for people to 
 create software.  
-
-<img class="ui medium left circular floated rounded image" height="300" src="../images/javascript.jpg">
 
 ## A Perspective on Athletic Software Engineering 
 
