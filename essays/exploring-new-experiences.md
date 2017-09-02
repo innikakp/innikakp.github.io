@@ -26,7 +26,7 @@ for developers and I believe having it in Javascript would make it easier for pe
 create software.  
 
 <p align="center">
-  <img class="ui medium circular image" height="300" src="../images/javascript.jpg">
+  <img class="ui medium circular floated rounded image" height="300" src="../images/javascript.jpg">
 </p>
 
 ## A Perspective on Athletic Software Engineering 
