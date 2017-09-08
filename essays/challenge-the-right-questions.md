@@ -31,7 +31,9 @@ Essentially, to form smart questions, one needs to:
 * Create a title that adds more specifications to their problem, such as the operating system they are running on their program
 * Provide enough details to explain their problem (and possibly replicate it)
 * Be courteous and show gratitude to future repliers
-* Lastly, check their grammar before sending in their question..These guidelines help users contribute invigorating and innovative questions that stimulate 
+* Lastly, check their grammar before sending in their question
+
+These guidelines help users contribute invigorating and innovative questions that stimulate 
 thought within the community and allow users to have thought-provoking conversations with other 
 hackers, the members of the computer science community. At the same time, by asking questions 
 users can maintain the atmosphere of the forum. 
