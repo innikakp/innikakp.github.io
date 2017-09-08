@@ -21,10 +21,10 @@ the easy questions since it’s a fast way to “ask” for help from experience
 simply asking a one-lined question followed by a “Please help me” plea on a forum board, such as 
 StackOverflow, is easy; however, it does not guarantee help from other forum users nor does it
 help anyone, including the asker, in any way. For this reason, it is important to ask as, 
-Edmond Raymond describes, the “smart” questions.  
+Eric Steven Raymond describes, the “smart” questions.  
 
 In his article “[How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html),” 
-Edmond Raymond illuminates readers on the proper etiquette to asking questions the right way. 
+Raymond illuminates readers on the proper etiquette to asking questions the right way. 
 In the article, he lists and explains the criteria of a “smart” question and its opposite.
 Essentially, to form smart questions, one needs to: 
 * Research a solution or acquire more information about their problem before asking their question
