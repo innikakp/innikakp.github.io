@@ -27,12 +27,12 @@ In his article “[How To Ask Questions the Smart Way](http://www.catb.org/esr/f
 Edmond Raymond illuminates readers on the proper etiquette to asking questions the right way. 
 In the article, he lists and explains the criteria of a “smart” question and its opposite.
 Essentially, to form smart questions, one needs to: 
-+Research a solution or acquire more information about their problem before asking their question
-+Create a title that adds more specifications to their problem, such as the operating system they are running on their program
-+Provide enough details to explain their problem (and possibly replicate it)
-+Be courteous and show gratitude to future repliers
-+Lastly, check their grammar before sending in their question. 
-These guidelines help users contribute invigorating and innovative questions that stimulate 
+* Research a solution or acquire more information about their problem before asking their question
+* Create a title that adds more specifications to their problem, such as the operating system they are running on their program
+* Provide enough details to explain their problem (and possibly replicate it)
+* Be courteous and show gratitude to future repliers
+* Lastly, check their grammar before sending in their question. 
+.. These guidelines help users contribute invigorating and innovative questions that stimulate 
 thought within the community and allow users to have thought-provoking conversations with other 
 hackers, the members of the computer science community. At the same time, by asking questions 
 users can maintain the atmosphere of the forum. 
