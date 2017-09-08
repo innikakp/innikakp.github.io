@@ -35,7 +35,7 @@ Essentially, to form smart questions, one needs to:
 
 These guidelines help users contribute invigorating and innovative questions that stimulate 
 thought within the community and allow users to have thought-provoking conversations with other 
-hackers, the members of the computer science community. At the same time, by asking questions 
+hackers, otherwise known as the members of the computer science community. At the same time, by asking questions 
 users can maintain the atmosphere of the forum. 
 
 <p align="center">
