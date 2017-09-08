@@ -48,7 +48,7 @@ Admittingly, encapsulating a problem in an intriguing manner to receive a soluti
 A question should have just enough detail, not too little and not too much, to describe the 
 problem. Otherwise, the aftermath could be very problematic. As such, an example of demonstrating
 the right way to ask a “smart” question comes from a [post](https://stackoverflow.com/questions/45936800/emscripten-canvas-jquery-toggle-focus) 
-made by a StackOverflow user. The gist of the problem was to keep a canvas on a chat box in an HTML 
+made by a StackOverflow user. The gist of the problem was to keep a canvas on a chat box in a HTML 
 web page using a combination of HTML, Javascript, and jQuery. Of course, the details of the problem 
 were very specific and aimed toward an audience familiar with these programming languages. However, 
 someone, such as myself, who is unfamiliar with the vernacular used within this question, understands 
