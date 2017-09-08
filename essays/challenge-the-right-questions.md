@@ -28,7 +28,7 @@ Raymond illuminates readers on the proper etiquette to asking questions the righ
 In the article, he lists and explains the criteria of a “smart” question and its opposite.
 Essentially, to form smart questions, one needs to: 
 * Research a solution or acquire more information about their problem before asking their question
-* Create a title that adds more specifications to their problem, such as the operating system they are running on their program
+* Create a title that adds more specifications to their problem, such as the operating system they are running their program on
 * Provide enough details to explain their problem (and possibly replicate it)
 * Be courteous and show gratitude to future repliers
 * Lastly, check their grammar before sending in their question
