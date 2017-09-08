@@ -37,7 +37,7 @@ thought within the community and allow users to have thought-provoking conversat
 hackers, the members of the computer science community. At the same time, by asking questions 
 users can maintain the atmosphere of the forum. 
 
-<img class="ui medium left floated circular image" height="300" src="../images/learning.png">
+<img class="ui medium left floated rounded image" height="300" src="../images/learning.png">
 
 ## Learning Makes You Smarter
 
@@ -57,7 +57,7 @@ enough details for other hackers to consider and come up with a working solution
 experience alone allowed the user to gain more knowledge while giving hackers the opportunity to 
 challenge their expertise, which is always a plus.  
 
-<img class="ui right floated rounded image" width="300" src="../images/learning2.png">
+<img class="ui right floated circular image" width="300" src="../images/learning2.png">
 
 ## Onto the Other End of the Spectrum
 
