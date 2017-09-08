@@ -62,7 +62,7 @@ challenge their expertise, which is always a plus.
 
 <img class="ui left floated circular image" width="300" src="../images/learning2.png">
 
-## Onto the Other End of the Spectrum
+### Onto the Other End of the Spectrum
 
 Now it’s time to talk about the “bad” questions, as Raymond puts it, which are the complete 
 opposite of smart questions. These questions are commonly ignored by other users in the community.
