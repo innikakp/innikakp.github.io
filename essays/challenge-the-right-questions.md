@@ -39,7 +39,7 @@ hackers, otherwise known as the members of the computer science community. At th
 users can maintain the atmosphere of the forum. 
 
 <p align="center">
-  <img class="ui medium rounded image" width="300" src="../images/learning.png">
+  <img class="ui rounded image" width="300" src="../images/learning.png">
 </p>
 
 ## Learning Makes You Smarter
