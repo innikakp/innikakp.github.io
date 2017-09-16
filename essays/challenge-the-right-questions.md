@@ -14,7 +14,8 @@ labels:
 Let’s establish a fact: everyone wants to be smart. Although most think they aren’t very intelligent, they can definitely *sound* like they are and play the part to boot. Not only does sounding smart make people look good (superficially), but it also helps others share knowledge and have challenging conversations. This is why it’s crucial to ask questions, specifically the right questions. Some may find it difficult to frame questions in an intelligent manner; yet as most know, it’s easy to ask questions without thinking. Of course, many would opt to ask the easy questions since it’s a fast way to “ask” for help from experienced users. After all, simply asking a one-lined question followed by a “Please help me” plea on a forum board, such as StackOverflow, is easy; however, it does not guarantee help from other forum users nor does it help anyone, including the person asking the question, in any way. For this reason, it is important to ask as, Eric Raymond suggests, the “smart” questions.  
 
 In his article “[How To Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html),” Raymond illuminates readers on the proper etiquette to asking questions the right way. In the article, he lists and explains the criteria of a “smart” question and its opposite.
-Essentially, to form smart questions, one needs to: * Research a solution or acquire more information about their problem before asking their question
+Essentially, to form smart questions, one needs to: 
+* Research a solution or acquire more information about their problem before asking their question
 * Create a title that adds more specifications to their problem, such as the operating system they are running their program on
 * Provide enough details to explain their problem (and possibly replicate it)
 * Be courteous and show gratitude to future repliers
