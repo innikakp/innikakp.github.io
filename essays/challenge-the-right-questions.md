@@ -11,10 +11,10 @@ labels:
 
 ## The Key to Sounding Smart
 
-Let’s establish a fact: everyone wants to be smart. Although many probably think they aren’t 
+Let’s establish a fact: everyone wants to be smart. Although most think they aren’t 
 smart, they can definitely *sound* smart and play the part to boot. Not only does sounding 
 smart make people look good (superficially), but it also helps others think and have challenging 
-conversations. This is why it’s crucial to ask questions, especially the right questions. 
+conversations. This is why it’s crucial to ask questions, specifically the right questions. 
 Some may find it difficult to frame questions in an intelligent manner; yet as most know, 
 it’s easy to ask questions without thinking about it first. Of course, many would opt to ask 
 the easy questions since it’s a fast way to “ask” for help from experienced users. After all, 
