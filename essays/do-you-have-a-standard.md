@@ -51,7 +51,7 @@ for the code working rushes through.
 
 Even though this coding standard allows one to see errors in real-time, it denies programmers the 
 chance to learn various skills important, especially for the future. One of these essential tools is tracing. 
-Past experience has taught me that tracing is one of **_the most important_** skills one could ever 
+Past experience has taught me that tracing is one of **_THE MOST IMPORTANT** skills one could ever 
 learn in their programming career. Having used both C/C++ on a Unix machine and Java on an 
 [Eclipse](https://www.google.com/url?q=https://eclipse.org/ide/&sa=D&ust=1505975379795000&usg=AFQjCNHI1V59mkTEJcRExsaO5dYnd8Z_Pw) 
 IDE allowed me to see that real-time error checking does not allow for much learning. Yes programmers 
