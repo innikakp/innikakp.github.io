@@ -84,4 +84,4 @@ appearance of the source code. Or perhaps using a preferred way to, in essence, 
 accustomed to how code should be styled in a particular language. However, everyone 
 eventually develops their own standard for coding they are comfortable with in order to make their code readable and understandable to others. 
 
-Lesson being: we all should code in style.
+**Lesson learned: we all should code in style.**
