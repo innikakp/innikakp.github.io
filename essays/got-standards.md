@@ -27,15 +27,15 @@ one must understand the importance of coding standards, an essential part of pro
 
 Simply put, coding standards are guidelines to how a programmer should construct their source
 code. *Summed perfectly by David Mytton who wrote the article
-“[Why You Need Coding Standards](https://www.google.com/url?q=https://www.sitepoint.com/coding-standards/&sa=D&ust=1505977164874000&usg=AFQjCNGxpM_-kka-QARu434KQw1tE4R5Kw),” he explains 
+“[Why You Need Coding Standards](https://www.sitepoint.com/coding-standards/),” he explains 
 coding standards “tells developers how they must write their code.”* Mytton further suggests 
 questions to how one should develop or declare their coding standards and provides examples 
 to various coding standards seen in computer languages, such as Javascript. For instance, the 
-coding standard implemented in my Information & Computer Science 314 course is [ESLint]
-(https://eslint.org/docs/about/). It finds various errors, such as our well-known enemy syntax
-errors, in real-time while the programmer is writing their source code in their Integrated 
-Development Environment. The IDE used in my class is IntelliJ, which allows programmers to 
-write various languages of code, including Javascript, HTML, and many more in the class.
+coding standard implemented in my Information & Computer Science 314 course is [ESLint](https://eslint.org/docs/about/)
+It finds various errors, such as our well-known enemy syntax errors, in real-time while the 
+programmer is writing their source code in their Integrated Development Environment. The IDE 
+used in my class is IntelliJ, which allows programmers to write various languages of code, 
+including Javascript, HTML, and many more in the class.
 
 ## IntelliJent Enough for the Green Check?
 
@@ -63,7 +63,7 @@ Even though this coding standard allows one to see errors in real-time, I believ
 give programmers the chance to learn important skills, especially for the future. One of 
 these essential tools is tracing. Past experience has taught me that tracing is one of 
 **_the most important_** skills one could ever learn in their programming career. Having
-used both C/C++ on a Unix machine and Java on an [Eclipse](https://www.google.com/url?q=https://eclipse.org/ide/&sa=D&ust=1505975379795000&usg=AFQjCNHI1V59mkTEJcRExsaO5dYnd8Z_Pw)
+used both C/C++ on a Unix machine and Java on an [Eclipse](https://eclipse.org/ide/)
 IDE allowed me to see that real-time error checking doesn’t allow for much learning. Yes,
 programmers can fix their source code quickly and easily when error checking is in real-time,
 however, it comes with a risk of not understanding _why_ code is wrong. Understanding *how*
