@@ -68,7 +68,7 @@ these essential tools is tracing. Past experience has taught me that tracing is 
 used both C/C++ on a Unix machine and Java on an [Eclipse](https://eclipse.org/ide/)
 IDE allowed me to see that real-time error checking doesn’t allow for much learning. Yes,
 programmers can fix their source code quickly and easily when error checking is in real-time,
-however, it comes with a risk of not understanding _why_ code is wrong. Understanding *how*
+however, it comes with a risk of not understanding **WHY** the code is wrong. Understanding *how*
 the program functions step by step allows the people to become better programmers in the long 
 run. The problem I see with real-time error checking is not being able to trace through code
 effectively by problem solving to see where the problem lies in their code. For instance, 
@@ -87,7 +87,7 @@ implementing or adhering to a specific coding standard. And as we all know, unre
 means difficulty in understanding what the code actually does. In short, without coding 
 standards, stuff can get really messy and complicated fast!
 
-Although I feel some coding standards make source code look better and cleaner than others, 
+Although I understand some coding standards improve the appearance of the source code than others, 
 it is entirely up to one’s perception on coding standards and the coding world. Perhaps 
 varying coding standards between languages *does* improve the quality, readability, and 
 appearance of code. Or perhaps using a preferred way to, in essence, style one’s code to 
