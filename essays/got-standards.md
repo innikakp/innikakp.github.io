@@ -57,7 +57,7 @@ hoping it would tell you what was wrong with it, but that doesn’t get anyone a
 speak from experience, it’s a really rough and long 48 hours. Yet, one will experience 
 extreme relief and gratitude when there are no errors present in the code. 
 
-<img class="ui left floated small rounded image" width="300" src="../images/greencheckmark.png">
+<img class="ui left floated tiny rounded image" width="300" src="../images/greencheckmark.png">
 
 Even though this coding standard allows one to see errors in real-time, I believe it does not
 give programmers the chance to learn important skills, especially for the future. One of 
