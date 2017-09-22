@@ -73,6 +73,8 @@ effectively by problem solving to see where the problem lies in their code. For 
 using a compiler and linker separately (whether one is given a choice or not) forces programmers 
 to thoroughly understand their code because multiple errors could stem from one syntax error.   
 
+<img class="ui right floated medium rounded image" height="300" src="../images/comic.jpg">
+
 ## Coding Standards are the New Style
 
 With this discussion about coding standards in mind, I ultimately believe having coding 
