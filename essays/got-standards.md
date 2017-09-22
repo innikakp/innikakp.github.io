@@ -39,6 +39,8 @@ including Javascript, HTML, and many more in the class.
 
 ## IntelliJent Enough for the Green Check?
 
+<img class="ui left floated tiny rounded image" width="300" src="../images/greencheckmark.png">
+
 To signify the correctness of the code, a green checkmark will appear, possibly in the right
 corner, of their IDE. On the other hand, errors will definitely pop up if a red or yellow box 
 appears in the corner of the editor. These colors signify that the source code is either not 
@@ -57,7 +59,7 @@ hoping it would tell you what was wrong with it, but that doesn’t get anyone a
 speak from experience, it’s a really rough and long 48 hours. Yet, one will experience 
 extreme relief and gratitude when there are no errors present in the code. 
 
-<img class="ui left floated tiny rounded image" width="300" src="../images/greencheckmark.png">
+<img class="ui right floated medium rounded image" height="300" src="../images/comic.jpg">
 
 Even though this coding standard allows one to see errors in real-time, I believe it does not
 give programmers the chance to learn important skills, especially for the future. One of 
@@ -72,8 +74,6 @@ run. The problem I see with real-time error checking is not being able to trace 
 effectively by problem solving to see where the problem lies in their code. For instance, 
 using a compiler and linker separately (whether one is given a choice or not) forces programmers 
 to thoroughly understand their code because multiple errors could stem from one syntax error.   
-
-<img class="ui right floated medium rounded image" height="300" src="../images/comic.jpg">
 
 ## Coding Standards are the New Style
 
