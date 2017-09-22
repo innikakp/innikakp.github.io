@@ -61,17 +61,17 @@ extreme relief and gratitude when there are no errors present in the code.
 
 <img class="ui right floated medium rounded image" height="300" src="../images/comic.jpg">
 
-Even though this coding standard allows one to see errors in real-time, I believe it does not
-give programmers the chance to learn important skills, especially for the future. One of 
-these essential tools is tracing. Past experience has taught me that tracing is one of 
-**_the most important_** skills one could ever learn in their programming career. Having
-used both C/C++ on a Unix machine and Java on an [Eclipse](https://eclipse.org/ide/)
-IDE allowed me to see that real-time error checking doesn’t allow for much learning. Yes,
-programmers can fix their source code quickly and easily when error checking is in real-time,
-however, it comes with a risk of not understanding _why_ code is wrong. Understanding *how*
-the program functions step by step allows the people to become better programmers in the long 
-run. The problem I see with real-time error checking is not being able to trace through code
-effectively by problem solving to see where the problem lies in their code. For instance, 
+> Even though this coding standard allows one to see errors in real-time, I believe it does not
+> give programmers the chance to learn important skills, especially for the future. One of 
+> these essential tools is tracing. Past experience has taught me that tracing is one of 
+> **_the most important_** skills one could ever learn in their programming career. Having
+> used both C/C++ on a Unix machine and Java on an [Eclipse](https://eclipse.org/ide/)
+> IDE allowed me to see that real-time error checking doesn’t allow for much learning. Yes,
+> programmers can fix their source code quickly and easily when error checking is in real-time,
+> however, it comes with a risk of not understanding _why_ code is wrong. Understanding *how*
+> the program functions step by step allows the people to become better programmers in the long 
+> run. The problem I see with real-time error checking is not being able to trace through code
+> effectively by problem solving to see where the problem lies in their code. For instance, 
 using a compiler and linker separately (whether one is given a choice or not) forces programmers 
 to thoroughly understand their code because multiple errors could stem from one syntax error.   
 
