@@ -14,7 +14,7 @@ labels:
 Syntax errors are your worst enemy. Initially, a simple syntax error, which could be a 
 misspelled word, may not seem so bad; however, if not caught immediately it can thoroughly 
 ruin anyone’s code. In a sense, one syntax error can initiate a snowball effect of other 
-errors that may or may not have anything to do with the actual error that could break the code, such as a runtime error. These types of errors are also the trickiest to catch (among other errors) since they often go unnoticed to programmers. In order to increase the chances of catching these errors, one must understand the importance of coding standards, an essential part of programming. 
+errors that may or may not have anything to do with the actual problem breaking the code, such as a runtime error. These types of errors are also the trickiest to catch (among other errors) since they often go unnoticed to programmers. In order to increase the chances of catching these errors, one must understand the importance of coding standards, an essential part of programming. 
 
 <p align="center">
   <img class="ui rounded image" width="300" src="../images/syntaxerrorsolution.png">
