@@ -6,9 +6,12 @@ date: 2017-10-5
 labels:
   - Semantic UI
   - Web Design
+  
 ---
 
 ## Wanna Make a Pretty Site?
+
+<img class="ui left floated image" height="width" src="../images/semanticui.png">
 
 Ever wondered how people make websites look really really good? I’ve often wondered this myself and awed at how beautiful some web pages are compared to others. The visually pleasing appearance of most websites is most likely thanks to using a specific UI framework. In essence, a framework allows users to create and apply beautiful layouts to a web page by using various types of software. This is usually done through a combination of [CSS](https://www.w3schools.com/css/css_intro.asp), which is a way to style elements in a HTML (which is simply a web page), and [Javascript](https://www.w3schools.com/js/), a type of computer language used by most web pages. More information about UI frameworks is described briefly in this [documentation](https://docs.oracle.com/cd/E12517_01/back_office/pdf/141/html/pos_impg2/uiframework.htm) by Oracle which explains how UI frameworks is applied to source code written in Java. Among the majority of frameworks out there, one framework in particular stands out for being challenging, yet easy to implement, and that is Semantic UI.
 
@@ -18,7 +21,9 @@ Honestly, Semantic UI can be a real pain to learn, let alone understand. It’s 
 
 Not only does Semantic UI make these pages look awesome, it’s also **easier** to style and design these pages. Without Semantic UI, the only options to style a web page and make it look pretty is to use CSS and that in itself is very limited. Realistically, they don’t offer much when it comes to making a web page look **visually** appealing to a user. In other words, the chances of having someone come back to use a website styled with only CSS is really low. I’d say the user wouldn’t even think twice nor look at a website designed only in HTML and CSS. A website designed in this manner is really bad, like super ugly to look at. In the end, using Semantic UI pays off because it will **_greatly_** influence the chances of a user using the web page in the long run. More people will come back to the web page or app and, more importantly, use it if it looks aesthetically pleasing.       
 
-
+<p align="center">
+  <img height="300" src="../images/webdesign.jpg">
+</p>
 
 ## Visually Beautiful Objects = Worthwhile
 
