@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Modern Way to Dress the Web
-date: 2017-10-05
+date: 2017-10-5
 labels:
   - Semantic UI
   - Web Design
