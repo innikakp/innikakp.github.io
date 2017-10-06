@@ -10,7 +10,7 @@ labels:
 
 ## Wanna Make a Pretty Site?
 
-<img class="ui left floated image" height="300" src="../images/semantic-ui.png">
+<img class="ui left floated image" width="300" src="../images/semantic-ui.png">
 
 Ever wondered how people make websites look really really good? I’ve often wondered 
 this myself and awed at how beautiful some web pages are compared to others. The 
@@ -75,7 +75,7 @@ be more socially competent and happier than people who aren’t beautiful. The s
 said of beautiful software, meaning an end product that looks visually appealing can 
 really get people places. 
 
-<img class="ui right floated image" width="300" src="../images/web-design2.jpg">
+<img class="ui right floated image" height="300" src="../images/web-design2.jpg">
 
 ## Semantic UI is the Way to Go
 
