@@ -10,7 +10,7 @@ labels:
 
 ## Wanna Make a Pretty Site?
 
-<img class="ui left floated image" height="300" src="../images/semanticui.png">
+<img class="ui left floated image" width="300" src="../images/semanticui.png">
 
 Ever wondered how people make websites look really really good? I’ve often wondered this myself and awed at how beautiful some web pages are compared to others. The visually pleasing appearance of most websites is most likely thanks to using a specific UI framework. In essence, a framework allows users to create and apply beautiful layouts to a web page by using various types of software. This is usually done through a combination of [CSS](https://www.w3schools.com/css/css_intro.asp), which is a way to style elements in a HTML (which is simply a web page), and [Javascript](https://www.w3schools.com/js/), a type of computer language used by most web pages. More information about UI frameworks is described briefly in this [documentation](https://docs.oracle.com/cd/E12517_01/back_office/pdf/141/html/pos_impg2/uiframework.htm) by Oracle which explains how UI frameworks is applied to source code written in Java. Among the majority of frameworks out there, one framework in particular stands out for being challenging, yet easy to implement, and that is Semantic UI.
 
