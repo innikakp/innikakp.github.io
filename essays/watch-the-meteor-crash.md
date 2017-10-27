@@ -21,7 +21,7 @@ Unfortunately, Meteor could take, in the worst case, one hour to just make the a
 
 It’s also a tad bit difficult to learn how Meteor works. What I mean by this is understanding the fundamentals of how data is sent and received from the client and server sides. I find the relationship between the client and server summed up simply in Meteor’s guide. Essentially, the client receives, or in Meteor’s term “renders,” the data sent by the server and does some type of behavior with that data. Although this may seem far fetched, this is similar to understanding how the brain functions. Your brain has neurotransmitters, or carries chemical signals, which communicate with each other by sending and receiving signals from other neurotransmitters within the synapse, or the space between each neurotransmitter (yes, neurons don’t touch each other). Without the constant communication of these signals, you probably wouldn’t be alive or function normally since abnormalities in neural signaling have been shown to be a cause of some mental disorders.     
 
-<img class="ui rounded image" width="300" src="../images/neuroncommunication.gif">
+<img class="ui centered rounded image" height="300" src="../images/neuroncommunication.gif">
 
 ## Let's Soar Through Space
 
