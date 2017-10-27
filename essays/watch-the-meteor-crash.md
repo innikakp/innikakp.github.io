@@ -25,7 +25,7 @@ Aside from the long build time, it’s also a tad bit difficult to learn how Met
 
 ## Fun with Meteor 
 
-<img class="ui right medium floated image" width="300" src="../images/meteorform.png">
+<img class="ui right small floated image" width="300" src="../images/meteorform.png">
 
 Despite needing to learn the relationship between the client and server and long build time, Meteor makes it easier to assemble all the parts of an app together. Since Meteor essentially breaks all of the needed elements into parts, sub-elements can be added within every aspect of an application. For instance, if you wanted to add contacts to a contact list, you could create a directory within the client or server side and creating more elements pertaining to adding contacts. I find that having everything separated into its own part makes it easier for **organizing** which elements go where and sort of forces the creator to **figure out** what elements should be **seen** by the client or the server. Even though Meteor is the first client-server “application architecture” I’ve encountered, it has helped me understand the client-server relationship a little more and how that relationship relates to application development. Although, remembering to include all the necessary files in the right places can be annoying at times, especially the root cause of an application crash/incorrect behavior results from not including files.
 
