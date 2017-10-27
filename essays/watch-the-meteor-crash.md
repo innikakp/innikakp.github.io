@@ -13,7 +13,7 @@ labels:
 
 “Look out! Ship Meteor crash landing from space in 5, 4, 3, 2… ” So, what happens next? Does the fictitious ship named Meteor crash onto Earth or does it disappear to a place outside Earth’s atmosphere? The most probable outcome to this dilemma is... it crashes to Earth, much like how an application crashes in Meteor (yes, Meteor isn’t just a name of a fictitious ship). Meteor is a program which combines the functions of JavaScript, MongoDB (a database), NodeJS (essentially Javascript that helps in networking), and Semantic UI to create a dynamic application as explained in the Meteor [guide](https://guide.meteor.com/). The feeling you get when your application crashes, or doesn’t function in the way you want, in Meteor is like watching an actual ship crash to Earth because of some sort of malfunction. To put it simply, the feeling is of *utter devastation and dread* because you know that (1) your soul died a little and (2) cleaning up the remnants of this so called crash is tough, I mean really tough. I can guarantee an app crashing or not working in Meteor is something everyone has experienced and relate to. It’s so common that the worse part in an app crash is 100% trying to figure out **_how_** to fix the problem. 
 
-## The Pain that Flies with Meteor
+## The Pain that Arrives with Meteor
 
 I’m not going to lie, Meteor is complicated. It’s also a very powerful tool, hence why it’s so complicated. There are *many* difficulties with using Meteor, one being the extensive amount of time it takes to create applications within its little framework. Now, what exactly do I mean by that? Let’s take for instance the time it takes to build an app for the very first time (essentially creating a basis of it). 
 
