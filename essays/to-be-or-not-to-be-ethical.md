@@ -31,7 +31,7 @@ It’s obvious that there is more to the story than Zoe being a conniving and de
 Now, how exactly does this relate to the ethics in software engineering would you ask? To be frank, Zoe and Eron are software engineers and have worked together on projects before, meaning they should have held an ethical standing and professional relationship (despite being romantically involved). Aside from the privacy issue, it seems both parties did not necessarily respect each other in a professional sense. In other words, it appears they did not adhere to a number of the eight principles in the [Software Engineering Code of Ethics and Professional Practice](https://www.computer.org/web/education/code-of-ethics). These principles outline what a software engineering should ethically uphold for themselves and others. In particular, they did not respect these principles, judgment, profession, and colleagues, probably out of resentment or intense anger. Instead of being professional towards each other, they judged each other based on personal feelings, not in regards to their professional experience and merit. After all, we all want to pursue the ideal of this quote below:    
 
 <p align="center">
-  <img class="ui left floated image" height="300" src="../images/gaming-quote.png">
+  <img class="ui image" height="300" src="../images/gaming-quote.png">
 </p>
 
 ## How We Fit In These Ethical Issues
