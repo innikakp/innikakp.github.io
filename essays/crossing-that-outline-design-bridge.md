@@ -19,7 +19,7 @@ Similar to outlining though, design patterns often help an innovator form the ar
 
 ### Looking at it from a writing perspective 
 
-<img class="ui medium left floated rounded image" height="300" src="../images/outlineprocess.jpg">
+<img class="ui medium left floated rounded image" width="300" src="../images/outlineprocess.jpg">
 
 Although not as obvious, both design patterns and outlines allow one to decide which style best suites their product, whether it be an application or a paper. What do I mean by this? Take for instance needing to write a research paper for a science course (or for any course for that matter). Of course extensive research is necessary to write a research paper, yet, the style of a research paper differs greatly from other types of papers, like this piece I am currently writing. In a research paper, one needs to state facts and provide evidence while thoroughly explaining them in order to build their argument. In other words, writing research requires one to be objective and be able to support their points with valid evidence. There’s technically no room for jokes or sarcasm. As such, the outline should be straightforward with evidence that support important points. 
 
@@ -35,4 +35,4 @@ These design patterns are especially relevant in today’s age, given how freque
 
 Recently, I’ve learned to implement a MVC approach/pattern in designing a web application. I have become a little comfortable with designing with the structure of this approach. Being able to combine the visual aspects of a user interface application with what is happening in the background is an interesting process that I was initially not used to. Through this approach, I have become familiar with the process of web application development  and have come to realize that it takes *_a lot_* of effort to put together a fully working, visually pleasing application. This makes me greatly appreciate that the MVC pattern was invented.       
 
-<img class="ui centered big rounded image" height="300" src="../images/mvc.jpg">
+<img class="ui centered big rounded image" width="300" src="../images/mvc.jpg">
