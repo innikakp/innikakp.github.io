@@ -35,4 +35,4 @@ These design patterns are especially relevant in today’s age, given how freque
 
 Recently, I’ve learned to implement a MVC approach/pattern in designing a web application. I have become a little comfortable with designing with the structure of this approach. Being able to combine the visual aspects of a user interface application with what is happening in the background is an interesting process that I was initially not used to. Through this approach, I have become familiar with the process of web application development  and have come to realize that it takes **_a lot_** of effort to put together a fully working, visually pleasing application. This makes me greatly appreciate that the MVC pattern was invented.       
 
-<img class="ui centered image" height="300" src="../images/mvc.jpg">
+<img class="ui centered image" width="300" src="../images/mvc.jpg">
