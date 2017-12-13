@@ -6,7 +6,7 @@
     "email": "innikakp@hawaii.edu",
     "phone": " ",
     "website": "https://innikakp.github.io",
-    "summary": "I am studying for a B.A. in Psychology in the Department of Psychology and for a minor in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. I am interested in using computer science techniques to enhance the field of neuroscience.",
+    "summary": "I am studying for a B.A. in Psychology in the Department of Psychology and a minor in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. I am interested in using techniques in computer science to contribute to the field of Neuroscience.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -32,8 +32,16 @@
       "name": "Psychology",
       "keywords": [
         "Neuroscience",
+        "neurobiological",
         "brain",
-        "cognitive"
+        "Cognitive Psychology",
+        "Social Psychology",
+        "Cultural Psychology",
+        "Developmental Psychology",
+        "Health Psychology",
+        "Abnormal Psychology",
+        "Psychology of Emotions",
+        "Group Psychology"
       ]
     },
     {
@@ -41,12 +49,29 @@
       "keywords": [
         "fiction",
         "science-fiction",
-        "dystopian literature"
+        "dystopian literature",
+        "fantasy"
       ]
     },
     {
       "name": "video games",
       "keywords": [
+        "RPG",
+        "Pokemon"
+      ]
+    },
+    {
+      "name": "design",
+      "keywords": [
+        "web design",
+        "color schemes/palettes"
+      ]
+    },
+    {
+      "name": "foreign languages",
+      "keywords": [
+        "Chinese (Cantonese) - 18 years",
+        "Spanish - 6 and half years"
       ]
     }
   ],
@@ -58,7 +83,11 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML & CSS",
+        "Semantic UI",
+        "Meteor",
+        "MongoDB"
       ]
     },
     {
@@ -66,7 +95,7 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
+        "Ubuntu/Unix",
         "Apple"
       ]
     }
@@ -93,7 +122,7 @@
       "summary": "Assist CRDG-IT staff with finances and other necessary help",
       "highlights": [
         "Maintain finances within IT department",
-        ""
+        "Provide aid to technicians as needed"
       ]
     }
   ],
