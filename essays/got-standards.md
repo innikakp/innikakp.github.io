@@ -37,45 +37,25 @@ programmer is writing their source code in an Integrated Development Environment
 In IntelliJ, a green check mark may appear in the right hand corner to signify the correctness of your source code. That is, if there are no syntax errors or other errors that may hinder your progress. The real errors on the other hand will definitely pop up if a red or yellow box appears in the corner of the editor. These are bad colors, very bad colors. If something red or yellow (mainly red) appears on your code, then you may be doing something *very* wrong. These colors mean that your source code either does not follow the set coding standard, the language, or a spelling error could exist (e.g. “wrod” 
 instead of “word”). With that said, the green check mark is a **goal** every programmer should aim for so that one's code will function.    
 
-But let’s get real here, that green check mark is both a *blessing* and a **_curse_**. Seeing nothing but red or yellow square can be agonizing. It’s always difficult to debug, or
-searching and fixing errors, one’s code whether it’s a syntax error or some other type of 
-error and could take hours trying to figure out what was wrong with the code. Of course, it 
-will be **_incredibly_** frustrating to discover that the whole reason your code isn’t 
-executing correctly, after days of searching, is because of *one* syntax error. It’s 
-possible you might result to breaking your computer after staring at that code for days and 
-hoping it would tell you what was wrong with it, but that doesn’t get anyone anywhere. I 
-speak from experience, it’s a really rough and long 48 hours. Yet, one will experience 
-extreme relief and gratitude when there are no errors present in the code. 
+But let’s get real here, that green check mark is both a blessing and a **_curse_**. It's *agonizing* to see nothing but red and yellow. After all, it’s always difficult to debug (searching and fixing errors) since the error could be a syntax error or some other error and could take hours trying to figure out what was wrong with the code. Of course, it is **_incredibly_** frustrating to discover that the whole reason your code isn’t working after days of searching is because of **_one_**, *little* syntax error. I would highly avoid the urge to break your computer when it does not tell you how to fix any errors you encounter. Speaking from experience, it’s a really rough and long 48 hours and breaking really expensive hardware won't solve anything. However, the sense of extreme relief and gratitude when there are no errors is heaven sent! 
 
 <img class="ui right floated medium rounded image" height="300" src="../images/comic.jpg">
 
-Even though this coding standard allows one to see errors in real-time, I believe it does not
-give programmers the chance to learn important skills. One of these essential tools is tracing. In sum, tracing is going through the source code line by line and imitating what the compiler would do to the code. By imitating the compiler, a programmer can see what is potentially going on in their source code, including errors. Past experience has taught me that tracing is one of **_the most important_** skills one could ever learn in their programming career. Having
-used both C/C++ on a Unix machine and Java on an [Eclipse](https://eclipse.org/ide/)
-IDE allowed me to see that real-time error checking doesn’t allow for much learning. Yes,
-programmers can fix their source code quickly and easily when error checking is in real-time,
-however, it comes with a risk of not understanding **WHY** the code is wrong. Understanding *how*
-the program functions step by step allows the people to become better programmers in the long 
-run. The problem I see with real-time error checking is not being able to trace through code
-effectively by problem solving to see where the problem lies in their code. For instance, 
-using a compiler and linker separately (whether one is given a choice or not) forces programmers 
-to thoroughly understand their code because multiple errors could stem from one syntax error. What happens in this case is always the same: programmers will try to fix the "error" in the wrong place, especially when they don't know what is going on in their code.   
+Despite ESLint's ability to see errors in real-time, I believe programmers will not have the chance to learn important skills. Of said skills is tracing. In sum, tracing means going through your source code line by line and "imitating" what the compiler could do to your code. By imitating the compiler, a programmer can see what may be going on in their source code, including errors. Past experience has taught me that tracing is one of **_the most important_** skills one could ever learn in their programming career. Having used both C/C++ on a Unix machine and Java on an [Eclipse](https://eclipse.org/ide/) IDE allowed me to see that real-time error checking doesn’t allow for much learning. Yes, programmers can fix their source code quickly and easily when error checking is in real-time, however, it comes with a risk of not understanding **WHY** the code is wrong. Understanding *how* the program functions step by step allows the people to become better programmers in the long run. 
+
+The problem I see with real-time error checking is being unable to effectively trace through code or avoiding the need to practice problem solving through the code. For instance, using a compiler and linker separately (whether one is given a choice or not) forces programmers to thoroughly understand their code because multiple errors could stem from one syntax error. What happens in this case is always the same: programmers will try to fix the "error" in the wrong place, especially when they don't know what is going on in their code.   
 
 ## Coding Standards are the New Style
 
 With this discussion about coding standards in mind, I ultimately believe having coding 
 standards in place is important in terms of **style**. For one, having coding standards makes source code look cleaner and more user-friendly for others to view and edit that piece of code 
-(if it is a part of a collaboration project). I’m sure most people have encountered source 
-code that is difficult to read and hurts the eyes (maybe even blinding people) because of 
-how messy it is. A potential reason for messy and unreadable code could come from not 
+(if it is a part of a collaboration project). I’m sure most people have encountered unreadable source 
+code that blind a person with how "grammatically incorrect" and messy it is. A potential reason for messy and unreadable code could come from not 
 implementing or adhering to a specific coding standard. And as we all know, unreadable code 
 means difficulty in understanding what the code actually does. In short, without coding 
 standards, code can get really messy and complicated fast!
 
-Although I understand some coding standards improve the appearance of the source code than others, it is entirely up to one’s perception on coding standards and the coding world. Perhaps 
-varying coding standards between languages *does* improve the quality, readability, and 
-appearance of the source code. Or perhaps using a preferred way to, in essence, style one’s code so that it fits their standards ()after experiencing other coding standards) is the best way to go. Ultimately, it is good to enforce coding standards for beginners so that they become 
-accustomed to how code should be styled in a particular language. However, everyone 
-eventually develops their own standard for coding they are comfortable with in order to make their code readable and understandable to others. 
+Although I understand some coding standards improve the appearance of the source code than others, it is entirely up to one’s perception on coding standards and the coding world. Perhaps varying coding standards between languages *does* improve the quality, readability, and appearance of the source code. Or perhaps using a preferred way to "style" one’s code to fit one's own standards is the best way to go. Ultimately, it is good to enforce coding standards for beginners so that they become 
+accustomed to how code should be styled in a particular language. However, everyone eventually develops their own standard for coding they are comfortable with in order to make their code readable and understandable to others. 
 
 **Lesson learned: we should all code in style.**
