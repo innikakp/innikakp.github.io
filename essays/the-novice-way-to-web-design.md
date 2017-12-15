@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Keys to Designing the Web Like a Novice
+title: The Novice Way to Web Design
 date: 2017-10-05
 labels:
   - Web Design
