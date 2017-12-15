@@ -10,7 +10,7 @@ labels:
 
 <img class="ui medium left floated rounded image" width="300" src="../images/javascript.png">
 
-## The Many Reasons for Learning Languages
+## Why One Should Learn Many Languages
 
 It may seem initially intimidating and difficult to learn computer languages, let alone many languages at that. After learning multiple languages, it gradually becomes easier to learn another depending on the language. In my case, I thought it would be challenging to learn Javascript, an unfamiliar language at the time. My career as a student in the Computer Science department allowed me to learn and experience *many* languages. For instance, I learned Java in the first year and recently learned Javascript (which is different from Java).  
 
