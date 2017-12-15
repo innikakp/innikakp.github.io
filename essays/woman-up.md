@@ -13,7 +13,7 @@ Respect. What everyone deserves is respect regardless of their gender or sexual 
 
 ## Why Does Acknowledging Your Gender Matter?
 I, for one, absolutely *do not* like bringing gender into any argument, unless it’s called for. In this case, females have always been the underdog in many societies, including Western and Eastern societies. And change towards a more gender equal society is slow, painfully slow. As a female, it is difficult to see other females enduring such hardships simply because of their gender; it’s downright unjust. *After having a conversation about male dominated fields, I was told this by a male professor, Dr. Richard Rapson: 
-"No matter how strong and independent women want to be in a male dominated society, they will never receive the respect or acknowledgements they deserve."* All gender aside, these words hold a *chilling* reality, one that I’ve experienced.
+"No matter how strong and independent women want to be in a male dominated society, they will never receive the respect or acknowledgements they deserve."* All gender aside, these words hold a **_chilling_** reality, one that I’ve experienced.
 
 <img class="ui left floated image" width="300" src="../images/genderequality.png">
 
