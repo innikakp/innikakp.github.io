@@ -108,7 +108,28 @@
       "startDate": "2014-08-21",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "Psychology courses": [
+        "Survey of Psychology",
+        "Survey of Research Methods",
+        "Statistical Techniques",
+        "Introduction to Psychobiology",
+        "Cognitive Psychology",
+        "Sensation and Perception",
+        "Psychology of Emotion",
+        "Psychopharmacology",
+        "Health Psychology",
+        "Cross-Cultural Psychology",
+        "Psychology of Human Sexuality",
+        "Abnormal Psychology",
+        "Forensics Psychology"
+      ],
+      "Computer Science courses": [
+        "Intro to Computer Science I",
+        "Intro to Computer Science II",
+        "Discrete Math for CS I",
+        "Discrete Math II",
+        "Program Structure",
+        "Software Engineering I"
       ]
     }
   ],
@@ -122,7 +143,7 @@
       "summary": "Assist CRDG-IT staff with finances and other necessary help",
       "highlights": [
         "Maintain finances within IT department",
-        "Provide aid to technicians as needed"
+        "Provide aid to technicians, faculty, and staff as needed"
       ]
     }
   ],
