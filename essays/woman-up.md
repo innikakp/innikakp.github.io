@@ -12,7 +12,10 @@ labels:
 Respect. What everyone deserves is respect regardless of their gender or sexual orientation or race or any other social standings. It’s a human right for every person to be respected, professionally or personally. However, the biting reality is that many do not receive the respect they deserve, or rather earn. What in fact is scary about this? The mere action(s) of not showing respect towards another person is **_implicit_**, meaning the person doing the disrespecting may not even *realize* it. No matter the circumstances, these habits, if it could be called that, is often seen when males dominate the field and females not so much. 
 
 ## Why Does Acknowledging Your Gender Matter?
-I, for one, absolutely *do not* like bringing gender into any argument, unless it’s called for. In this case, females have always been the underdog in many societies, including Western and Eastern societies. And change towards a more gender equal society is slow, painfully slow. As a female, it is difficult to see other females enduring such hardships simply because of their gender; it’s downright unjust. After having a conversation about male dominated fields, I was told by a male authority figure, *“No matter how strong and independent women want to be in a male dominated society, they will never receive the respect or acknowledgements they deserve. This is a fact.”* All gender aside, these words hold a *chilling* reality, one that I’ve experienced.
+I, for one, absolutely *do not* like bringing gender into any argument, unless it’s called for. In this case, females have always been the underdog in many societies, including Western and Eastern societies. And change towards a more gender equal society is slow, painfully slow. As a female, it is difficult to see other females enduring such hardships simply because of their gender; it’s downright unjust. After having a conversation about male dominated fields, I was told this:
+ > No matter how strong and independent women want to be in a male dominated society, they will never receive the respect or acknowledgements they deserve. This is a fact. <div class="footer"> -A male professor </div>
+ 
+   All gender aside, these words hold a *chilling* reality, one that I’ve experienced.
 
 <img class="ui left floated image" width="300" src="../images/genderequality.png">
 
