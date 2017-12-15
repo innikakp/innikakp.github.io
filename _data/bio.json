@@ -109,7 +109,7 @@
       "startDate": "2014-08-21",
       "endDate": "Present",
       "gpa": "",
-      "psychology courses": [
+      "courses": [
         "Survey of Psychology",
         "Survey of Research Methods",
         "Statistical Techniques",
@@ -122,9 +122,7 @@
         "Cross-Cultural Psychology",
         "Psychology of Human Sexuality",
         "Abnormal Psychology",
-        "Forensics Psychology"
-      ],
-      "computer Science courses": [
+        "Forensics Psychology",
         "Intro to Computer Science I",
         "Intro to Computer Science II",
         "Discrete Math for CS I",
