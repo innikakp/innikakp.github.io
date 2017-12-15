@@ -25,6 +25,17 @@ Campus Beats is an application that is intended for musically inclined users, ma
 
 ## The Tools Used to Create the Application
 
+Throughout the development process, these tools listed below were heavily used: 
+  * Meteor: to build and run our application. Source code needed to reflect Meteor’s language with the inclusion of HTML/CSS and Javascript
+  * MongoDB: to create “Collections,” which were essentially containers of data that consisted of our database together. Again, the source code for the collections needed to also meet the standards for Meteor
+  * HTML, CSS, & Semantic UI: for designing purposes. Heavy use of both Semantic UI and CSS can be found throughout the source code while the backbone of HTML coding needed to be altered to use the Templates provided in Meteor 
+  * Javascript: to make our web pages dynamic and functional. Required heavy back-end coding and understanding of the connection between MongoDB and Meteor. Followed the ECMA6 verrsion of Javscript, which is the most recent 
+  * IntelliJ Idea: as the editor for this project to support the functions of the multi-language application 
+  * ESLint: used to identify errors and potential compiler errors, designated by either red/yellow if the source code was not up to standard (i.e. fails the coding standard set by the class and ECMA6) or a green check mark if it passed 
+  * The command line: to run the application and detect errors with ESLint
+  * **The mind**: to think about designs and how to make the webpage functional and writing the source code 
+
+
 ## My Contributions To the Application
 
 For this application, I had a great contribution in terms of design and hard coding aspect. Below are my listed contributions to this application: 
