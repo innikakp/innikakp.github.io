@@ -14,7 +14,9 @@ Respect. What everyone deserves is respect regardless of their gender or sexual 
 # Why Does Acknowledging Your Gender Matter?
 I, for one, absolutely *do not* like bringing gender into any argument, unless it’s called for. In this case, females have always been the underdog in many societies, including Western and Eastern societies. And change towards a more gender equal society is slow, painfully slow. As a female, it is difficult to see other females enduring such hardships simply because of their gender; it’s downright unjust. After having a conversation about male dominated fields, I was told by a male authority figure, *“No matter how strong and independent women want to be in a male dominated society, they will never receive the respect or acknowledgements they deserve. This is a fact.”* All gender aside, these words hold a *chilling* reality, one that I’ve experienced.
 
-<img class="ui centered image" width="300" src="../images/genderequality.jpg">
+<p align="center">
+  <img class="ui centered image" width="300" src="../images/genderequality.jpg">
+</p>
 
 Disrespect and denial of communication is something I have personally experienced as a female in Computer Science, an obviously male dominated field. Being aware of the small margin of females in Computer Science, with the numbers slowly growing, is important as it’s hard to acknowledge how much testosterone is in the room. Even though I say this, all genders were treated as equals in many of my Computer Science courses, with the full package of respect and effective communication. No qualms were experienced and everyone was acknowledged as equally intelligent (aside from those who are crazy smart!). As one could guess, having to deal with utter disrespect was a right hook to my gut. 
 
@@ -27,4 +29,6 @@ And if you may be wondering why I didn’t explain my situation to my team? The 
 
 Growing up in a female empowering environment, I was taught to stand up for myself not just as a female but as a person and do what I believe is morally correct. The heartbreaking contradiction is that it would be extremely difficult for *_anyone_* in this situation, social constructs aside, to attempt to get anyone to *listen* to their words if no one wants to listen. Past experience has taught me that confrontation is **not** always the best course of action, no matter what one’s moral compass tells them to do. Any social situation such as this is particularly difficult to endure, yet, those who have been through these situations can *learn* from this experience. Learn to be **empowered** and **Stand Up For Yourself!** Whether it is confrontation or understanding how the situation is immoral or not, being able to understand your *worth* as a person and how something like gender is important in every life setting: school, work, and even social life is key. As a fellow woman in a male dominated field, I say be proud! Be proud that you are surviving in this male world, believe and *recognize* that you deserve respect and acknowledgement as a fellow computer scientist. 
 
-<img class="ui centered image" width="300" src="../images/womenempowerment.jpg">
+<p align="center">
+  <img class="ui centered image" width="300" src="../images/womenempowerment.jpg">
+</p>
