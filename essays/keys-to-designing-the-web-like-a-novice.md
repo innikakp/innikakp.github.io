@@ -12,7 +12,7 @@ labels:
 
 ## The First (and very important) Key to Design
 
-<img class="ui right floated image" width="300" src="../images/webdesign5.jpg">
+<img class="ui medium right floated image" width="300" src="../images/webdesign5.jpg">
 
 Ever wondered how websites look beautiful? I’ve often been in awe at how people can design beautiful yet modern websites and often wondered if I could ever have the ability to design like that. After trying my hand at designing such websites, I've realized just how **difficult** designing actually is! To my surprise, it takes a lot of time, effort, and thought to figuring out how a web page should look. Now let's look at key #1 of this design process: being *patient* and willing to take the time to find out what works for the website and what doesn't. One can do so by using specific UI frameworks to help create a visually pleasing website for the user. In essence, a framework allows users to create and apply beautiful layouts to a web page by using various types of software. This is usually done through a combination of [CSS](https://www.w3schools.com/css/css_intro.asp), which is a way to style elements in a HTML (which is simply a web page), and [Javascript](https://www.w3schools.com/js/), a type of computer language used by most web pages. More information about UI frameworks is described briefly in this [documentation](https://docs.oracle.com/cd/E12517_01/back_office/pdf/141/html/pos_impg2/uiframework.htm) by Oracle which explains how UI frameworks is applied to source code written in Java. Among most frameworks, I am particularly fond of using [Semantic UI](https://semantic-ui.com/) as it provides a somewhat easy interface and is almost an enhanced version of CSS (it can be used in conjunction with CSS!), which is very awesome in a geeky way. 
 
@@ -25,7 +25,7 @@ Learning Semantic UI is similar to learning an entirely new language. As many ex
 Not only does Semantic UI make web pages look awesome, it’s also **easier** to style and design these pages with the user's interests in mind. Without Semantic UI, the only options to style a web page is to use CSS and that in itself is very limited. Realistically, CSS does not offer much when it comes to making a web page look **visually** appealing for a user. In other words, the chances of having someone come back to use a website styled with only CSS is really low (e.g. a white box on a white background with red text). I’d say the user would not think twice (or look at a website) that is poorly designed with only HTML and CSS. A website designed in this manner would be visually ugly and promotes a creator's poor design skills. In the end, using Semantic UI pays off because it will **_greatly_** influence the chances of a user using the web page in the long run. More people will come back to the web page or app and, more importantly, use it if it looks aesthetically pleasing. That brings us to key #3: among everything else, think of the *user* *_first_* when you design! The people who will see your website or application is other users, meaning other people will use *your* app. It's a little difficult thinking about what a user wants and *doesn't* want to see, yet it's easier when you think of what **you** want to see. Ask yourself this: what do you want to see in a website you frequently visit (i.e what are your preferences)?    
 
 <p align="center">
-  <img width="300" src="../images/semanticui2.jpg">
+  <img height="300" src="../images/semanticui2.jpg">
 </p>
 
 ## The Point in Making Visually Beautiful Elements 
