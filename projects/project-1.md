@@ -21,8 +21,6 @@ summary: An community application allowing users to search for others who want t
 
 Campus Beats is an application that is intended for musically inclined users, mainly students, to find and jam out with each other (i.e. meet up and play music together or have someone make music for software, like a video game). It was built by Blaine Wataru, Lancen Daclison, and I who are students of a Computer Science course, Software Engineering, as our final project. To see the source code for this project, one may go the <i class="large github icon"></i>[Campus Beats repository](https://github.com/campusbeats/campusbeats) and clone/download the zip file to use the application. This application does have a user login where only those with a University of Hawaii account may access the page via the CAS login. 
 
-(--screenshot of pages & CAS login here--)
-
 This is the landing page of the application, what the user would see upon first viewing the app:
 
 <p align="center"> 
