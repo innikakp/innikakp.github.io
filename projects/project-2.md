@@ -12,7 +12,7 @@ labels:
 summary: An implementation of a bank database using a linked list and text-based user interface menu in C++ developed in ICS 212.
 ---
 
-The bank database was a final project in ICS 212 (Program Structures), Summer 2017. One aspect of this project was to implement a linked list of the records in the database. The information in these records contained the user's account number, name, and address. The other aspect was to create a menu of seven options which would somehow affect the linked list, such as adding to, deleting from, or reversing the record(s) in the database. Ideally, the user would be able to choose an option from the menu and that option would correspond to an action performed on the linked list (the database). 
+The bank database was a final project in a Computer Science course, Program Structures that I took in Summer 2017. One aspect of this project was to implement a linked list of records in the  database. The information in these records contained the user's account number, name, and address. The other aspect was to create a menu of seven options which would somehow affect the linked list, such as adding to, deleting from, or reversing the record(s) in the database. Ideally, the user would be able to choose an option from the menu and that option would correspond to an action performed on the linked list (the database). 
 
 The Teaching Assistant for this course, Tetsuya Idota, provided the structure in the record.h file and the class prototypes in the llist.h file. Aside from the files the TA gave, I implemented the other source code, including the class definitions in the llist.cpp file.  
 

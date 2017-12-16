@@ -8,10 +8,10 @@ date: 2014
 labels:
   - CyberPatriot
   - cybersecurity
-summary: My experience and skills learned during my time as a CyberPatriot competitor for my school.
+summary: My experience and skills learned during my time as a CyberPatriot competitor for my high school.
 ---
 
-During my senior year of high school, I joined a class that enabled students to participate in CyberPatriot competitions hosted by the Air Force Association. In a way, this class became an extracurricular activity since the team would hold meetings outside of class and much time was devoted to research. This competition gave students the opportunity to become involved in a national competition, which enabled students to apply their cybersecurity skills to a real world setting. For about eight hours, students needed to figure out and fix a number of vulnerabilities to protect their "computer system" on a virtual machine every competition (4 total). The types of operating systems we wokred with were the Windows, Windows Server, and Linux.   
+During my senior year of high school, I joined a class that enabled students to participate in CyberPatriot competitions hosted by the Air Force Association. In a way, this class became an extracurricular activity since the team would hold meetings outside of class and much time was devoted to research. This competition gave students the opportunity to become involved in a national competition, which enabled students to apply their cybersecurity skills to a real world setting. For about eight hours, students needed to figure out and fix a number of vulnerabilities to protect their "computer system" on a virtual machine every competition (4 total). The types of operating systems we worked with were the Windows, Windows Server, and Linux.   
 
 <img class="ui left floated image" height="300" src="../images/cyberpatriotcertificatecopy.png">
 
