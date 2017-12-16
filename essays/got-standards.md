@@ -11,31 +11,26 @@ labels:
 
 ## Which Error is Your Kryptonite?
 
-Syntax errors are your worst enemy. It is most definitely your kryptonite. Indeed, a tiny spelling error can cause mayhem in any coder's life. Now, you may be thinking "what's a syntax error?" To put it simply, it's an error the compiler deems grammatically incorrect in the specific language one is coding in. And yes, misspelled words count as a grammatical error, a very big one at that. It may not seem that bad at first, what can a small misspelled word do to my program? Oh everything, it can do everything. One syntax error can initiate a snowball effect of errors that may or may not have anything to do with the actual problem.
+Syntax errors are your worst enemy. It is most definitely any coder's kryptonite. Indeed, a tiny spelling error can cause absolute mayhem in any coder's life. Now, you may be thinking "what's a syntax error and why is it so bad?" To put it simply, it's an error the compiler deems grammatically incorrect in the specific language one is coding in. And yes, misspelled words count as a grammatical error, a very big one at that. It may not seem that bad at first, what can a small misspelled word do to my program? Oh everything, it can do everything. One syntax error can initiate a snowball effect of errors that may or may not have anything to do with the actual problem. And that is where debugging be messy and time consuming. 
  
  <p align="center">
    <img class="ui rounded image" width="300" src="../images/syntaxerrorsolution.png">
  </p>
  
- For instance, a simple grammatical error could mask the bigger problem of a runtime error, which are the trickiest to catch (among other errors). These often go unnoticed to programmers and could potentially cause mayhem to a coder's life. Avoiding these types of errors may be possible if one understands the importance of **coding standards**, an essential part of programming. 
+ For instance, a simple grammatical error could mask the bigger problem of a runtime error, which are the trickiest to catch (among other errors). These often go unnoticed to programmers and could potentially cause chaos to a coder's life. Avoiding these types of errors is possible if one understands the importance of **coding standards**, an essential part of any programmer's first years in coding. 
 
 ## So, What On Earth Are Coding Standards?
 
 Simply put, coding standards are guidelines to how a programmer should construct their source
 code. *Summed perfectly by David Mytton who wrote the article
 “[Why You Need Coding Standards](https://www.sitepoint.com/coding-standards/),” he explains how a 
- coding standard “tells developers how they must write their code.”* Mytton further suggests how one should develop or declare their coding standards and provides examples 
-to various coding standards seen in various computer languages, such as Javascript. For instance, the 
-coding standard implemented in my Information & Computer Science 314 course, Software Engineering, is [ESLint](https://eslint.org/docs/about/).
-The job of ESLint is simple: it finds errors, like our good friend syntax errors, in real-time while the 
-programmer is writing their source code in an Integrated Development Environment, or IDE. To note, the IDE used in my class is IntelliJ. This particular IDE is very powerful and versatile as programmers can write in various languages within it, inccluding Javascript, HTML, and many more. A very useful tool for writing source code for a web application for instance. 
+ coding standard “tells developers how they must write their code.”* Mytton further suggests how one should develop or declare their coding standards and provides examples to various coding standards seen in different computer languages, such as C. For instance, the coding standard implemented in my Information & Computer Science 314 course, Software Engineering, is [ESLint](https://eslint.org/docs/about/). The job of ESLint is simple: it finds errors, like good ol' syntax errors, in real-time while the programmer is writing their source code in, possibly, an Integrated Development Environment, or IDE. To note, the IDE used in my class is IntelliJ. This particular IDE is very powerful and versatile as programmers can write in various languages within it, inccluding Javascript, HTML, and many more. A very useful tool for writing the source code of a web application for example. 
 
 ### IntelliJent Enough to Earn the Green Check?
 
 <img class="ui left floated tiny rounded image" width="300" src="../images/greencheckmark.png">
 
-In IntelliJ, a green check mark may appear in the right hand corner to signify the correctness of your source code. That is, if there are no syntax errors or other errors that may hinder your progress. The real errors on the other hand will definitely pop up if a red or yellow box appears in the corner of the editor. These are bad colors, very bad colors. If something red or yellow (mainly red) appears on your code, then you may be doing something *very* wrong. These colors mean that your source code either does not follow the set coding standard, the language, or a spelling error could exist (e.g. “wrod” 
-instead of “word”). With that said, the green check mark is a **goal** every programmer should aim for so that one's code will function.    
+In IntelliJ, a green check mark may appear in the right hand corner to signify the correctness of your source code. That is, no syntax errors, or any other errors, exist to hinder your progress. The real errors on the other hand will definitely pop up if a red or yellow box appears in the corner of the editor. These are bad colors, ones you never want to see when coding. If something red or yellow (mainly red) appears on your code, then you may be doing something *very* wrong. These colors mean that your source code either does not follow the set coding standard, the language, or a spelling error could exist (e.g. “wrod” instead of “word”). With that said, the green check mark is a **goal** *every* programmer should aim for so that one's code will function.    
 
 But let’s get real here, that green check mark is both a blessing and a **_curse_**. It's *agonizing* to see nothing but red and yellow. After all, it’s always difficult to debug (searching and fixing errors) since the error could be a syntax error or some other error and could take hours trying to figure out what was wrong with the code. Of course, it is **_incredibly_** frustrating to discover that the whole reason your code isn’t working after days of searching is because of **_one_**, *little* syntax error. I would highly avoid the urge to break your computer when it does not tell you how to fix any errors you encounter. Speaking from experience, it’s a really rough and long 48 hours and breaking really expensive hardware won't solve anything. However, the sense of extreme relief and gratitude when there are no errors is heaven sent! 
 
