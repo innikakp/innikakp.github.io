@@ -20,13 +20,13 @@ Clearly, there are differences between Javascript and other programming language
 
 With that being said, Javascript appears to be a decent language for beginner software engineers. It seems to be a simpler version of Java with a mixture of C++ as it shares many commonalities between the two. Along these lines, a benefit Javascript offers is the ability to use classes and Object Oriented Programming. OOP is a powerful tool for developers and I believe having it in Javascript makes it easier for people to create software. In fact, it allows Javascript to be immensely versatile. Its versatility allows it to be used in conjunction with many settings, including databases and user interfaces. That makes it incredibly more appealing to learn and use it when developing web applications.  
 
+<img class="ui medium right floated rounded image" height="300" src="../images/practiceiseverything.jpg">
+
 ## Now Let's Look at Learning from an Athletic Software Engineering Perspective
 
 One may ask how could one *practice* all of the languages they learned, like Javascript. Well, there's a simple solution for that: athletic software engineering. Essentially, athletic software engineering is an approach that allows anyone, primarily students (then again aren't we all students!), to practice their programming skills in a high-stress environment. This allows them to become better software engineers and better programmers overall. It ututilizes exercises similar to ones found in crossfit to get students' minds running and their brain power to explode, in a good way! Besides this surface explanation, an in-depth explanation to this learning approach can be found on the creator's, Dr. Philip Johnson's, [Athletic Software Engineering website](http://philipmjohnson.org/essays/ase-2017.html).
 
 Upon hearing about athletic software engineering, I thought it was very novel and unique. It was also difficult to grasp the idea behind athletic software engineering since we needed to solve various coding exercises, otherwise known as “Work Out of the Day,” in various languages. These languages ranged from our good friend Javascript to testing skills in HTML. These were done to train students to program more efficiently and think faster *while* they were programming. This allowed us to **practice** the coding skills that lie dormant in our heads.  
-
-<img class="ui medium right floated rounded image" height="300" src="../images/practiceiseverything.jpg">
 
 ### WODs Up with Practicing? 
 
