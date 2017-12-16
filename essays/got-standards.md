@@ -13,7 +13,7 @@ labels:
 
 Syntax errors are your worst enemy. It is most definitely any coder's kryptonite. Indeed, a tiny spelling error can cause absolute mayhem in any coder's life. Now, you may be thinking "what's a syntax error and why is it so bad?" To put it simply, it's an error the compiler deems grammatically incorrect in the specific language one is coding in. And yes, misspelled words count as a grammatical error, a very big one at that. It may not seem that bad at first, what can a small misspelled word do to my program? Oh everything, it can do everything. One syntax error can initiate a snowball effect of errors that may or may not have anything to do with the actual problem. And that is where debugging be messy and time consuming. 
  
-<img class="ui left rounded image" width="300" src="../images/syntaxerrorsolution.png">
+<img class="ui left floated rounded image" width="300" src="../images/syntaxerrorsolution.png">
  
  For instance, a simple grammatical error could mask the bigger problem of a runtime error, which are the trickiest to catch (among other errors). These often go unnoticed to programmers and could potentially cause chaos to a coder's life. Avoiding these types of errors is possible if one understands the importance of **coding standards**, an essential part of any programmer's first years in coding. 
 
