@@ -25,11 +25,11 @@ Campus Beats is an application that is intended for musically inclined users, ma
 
 This is the landing page of the application, what the user would see upon first viewing the app:
  
-<img width="300" src="../images/landingpageM2.png">
+<img height="300" src="../images/landingpageM2.png">
 
 Below demonstrates the CAS login allowing users to access the app:
 
-<img width="300" src="../images/beatspageM2.png">
+<img height="300" src="../images/beatspageM2.png">
 
 ## The Tools Used to Create the Application
 
@@ -42,19 +42,24 @@ For this application, I had a great contribution in terms of design and hard cod
 Below are the pages I designed and also the pages I needed to tweak to create a better design:
 
 This is the Home page:
-<img width="300" src="../images/homepageM2.png">
+
+<img height="300" src="../images/homepageM2.png">
 
 The Admin Home page:
-<img width="300" src="../images/adminpageM2.png">
+
+<img height="300" src="../images/adminpageM2.png">
 
 The Beats page:
-<img width="300" src="../images/beatspageM2.png">
+
+<img height="300" src="../images/beatspageM2.png">
 
 The Admin Monitor page:
-<img width="300" src="../images/admin-monitorM2.png">
+
+<img height="300" src="../images/admin-monitorM2.png">
 
 And the admin create page:
-<img width="300" src="../images/admin-createM2.png">
+
+<img height="300" src="../images/admin-createM2.png">
 
 
 Second, I aided in creating half of the search algorithm our application would utilize to search for user profiles in the Beats page. For this specific page, we hoped to have dropdown menus that would allow users to click on as many of listed choices they desired and be able to search for profiles based on their criteria. In attempting to emulate this idea, I attempted to figure out how to alter a given base algorithm to create the desired behavior for one category. After I figured that out, I asked another member to help with figuring out how to do it for all of our categories, which he was able to do. the rest of the algorithm since it was a  base search algorithm to function to our needs. 
