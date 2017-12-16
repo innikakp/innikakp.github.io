@@ -26,6 +26,8 @@ One may ask how could one *practice* all of the languages they learned, like Jav
 
 Upon hearing about athletic software engineering, I thought it was very novel and unique. It was also difficult to grasp the idea behind athletic software engineering since we needed to solve various coding exercises, otherwise known as “Work Out of the Day,” in various languages. These languages ranged from our good friend Javascript to testing skills in HTML. These were done to train students to program more efficiently and think faster *while* they were programming. This allowed us to **practice** the coding skills that lie dormant in our heads.  
 
+<img class="ui medium right floated rounded image" height="300" src="../images/practiceiseverything.jpg">
+
 ### WODs Up with Practicing? 
 
 Practice WODs, or practice “Work Out of the Day,” are coding problems that help students practice for the in-class WODs they would need to take. Surprisingly, these were very beneficial in many ways. For myself, practicing the code allowed me to build an idea of what the future WODs would be like. I also became familiar with a particular langauge and gained more experience while understanding the coding languages by using them in this setting. After all, practice is the key to learning!
