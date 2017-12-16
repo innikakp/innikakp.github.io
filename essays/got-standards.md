@@ -36,9 +36,9 @@ But let’s get real here, that green check mark is both a blessing and a **curs
 
 ### Tracing is *Everything,* Learn it or Blow It 
 
-<img class="ui right floated medium rounded image" height="300" src="../images/comic.jpg">
-
 Despite ESLint's ability to see errors in real-time, I believe programmers will not have the chance to learn important skills. Of said skills is **tracing**. In sum, tracing means going through your source code line by line and "imitating" what the compiler could do to your code. By imitating the compiler, a programmer can see what may be going on in their source code, which include errors. Past experience has taught me that tracing is one of **_the most important_** skills one could ever learn in their programming career. Having used both C/C++ on a Unix machine and Java on an [Eclipse](https://eclipse.org/ide/) IDE allowed me to see that real-time error checking doesn’t allow for much learning. Yes, programmers can fix their source code quickly and easily when error checking is in real-time, however, it comes with a risk of not understanding **why** the code is wrong. Understanding *how* the program functions step by step allows the people to become better programmers in the long run. 
+
+<img class="ui right floated medium rounded image" height="300" src="../images/comic.jpg">
 
 To be honest, the problem I see with real-time error checking is being unable to effectively trace through code or avoiding the need to practice problem solving skills via coding. For instance, using a compiler and linker separately (whether one is given a choice or not) forces programmers to thoroughly understand their code simply because multiple errors could stem from one syntax error. What happens in this case is always the same: programmers will try to fix the "error" in the wrong place, especially when they don't know what is going on in their code. Their code would still be "broken" either way and that programmer would be a very *bad* programmer (if there is such a thing).   
 
